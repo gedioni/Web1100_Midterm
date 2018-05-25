@@ -11,6 +11,16 @@ var numGoldfish = 4;
 var monthNumber = 1;
 var monthsToPrint = 12;
 
+
+
+while(monthsToPrint){
+    var result = numGoldfish * monthNumber * 4
+    console.log(result * monthsToPrint)
+}
+
+
+
+
 // Here’s what the first two lines of output should look like:
 //
 //    There will be 16 goldfish after 1 month(s)!

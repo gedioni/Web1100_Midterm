@@ -18,3 +18,5 @@
 var currentGen = 1;
 var totalGen = 19;
 var totalMW = 0;
+
+
